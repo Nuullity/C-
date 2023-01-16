@@ -1,0 +1,5 @@
+C:\Users\Marcos\Desktop\Exercicio5.exe
+C:\Users\Marcos\Desktop\Exercicio5.dll
+C:\Users\Marcos\Desktop\Exercicio5.deps.json
+C:\Users\Marcos\Desktop\Exercicio5.runtimeconfig.json
+C:\Users\Marcos\Desktop\Exercicio5.pdb
